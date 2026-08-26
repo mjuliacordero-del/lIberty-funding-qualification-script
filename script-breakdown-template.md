@@ -29,7 +29,10 @@ rather than a line to read word-for-word.
 | 7 | **OVER $10K UNSECURED / CREDIT HISTORY:** <span style="color:#7c3aed"><strong>"What kind of personal credit cards do you have?"</strong></span> | Assess available personal credit history and borrowing capacity |
 | 8 | **IDEAL TIMELINE:** <span style="color:#7c3aed"><strong>"Do you have a deadline for this funding?"</strong></span> | Identify urgency and compare it with a realistic process timeline |
 | 9 | <span style="color:#db2777"><strong>[REALISTIC TIMELINE, CLOSE LOOP]</strong></span> | Transition from qualification data to an individualized timeline |
-| 10 | <span style="color:#ea580c"><strong>[BRANCH A2: Given what I hear so far, it looks like a realistic timeline to get to funding is likely [TIMELINE].]</strong></span> | Set a realistic timeline when the available information supports it |
+| 10 | <span style="color:#2563eb"><em>"Given what I hear so far, it looks like a realistic timeline to get to funding is likely [REALISTIC TIMELINE]"</em></span> | Set a realistic timeline when the available information supports it |
+|  | <span style="color:#ea580c"><strong>[BRANCH A: ALL CRITERIA MET]</strong></span>: the next 6 weeks | |
+|  | <span style="color:#ea580c"><strong>[BRANCH B: MOST CRITERIA MET]</strong></span>: the next 3-4 months | |
+|  | <span style="color:#ea580c"><strong>[BRANCH B2: FEW CRITERIA MET]</strong></span>: 6-7 months | |
 | 11 | <span style="color:#ea580c"><strong>[BRANCH B2: NO CARDS ABOVE $5K]</strong></span> | Apply the longer-preparation condition when the prospect lacks sufficient card history |
 | 12 | <span style="color:#db2777"><strong>[REALISTIC TIMELINE CHECK]</strong></span>: <span style="color:#7c3aed"><strong>Does that work for you?</strong></span> | Confirm acceptance of the timeline |
 | 13 | **DEROGATORIES / LATE PAYS, ETC.:** <span style="color:#7c3aed"><strong>"Do you know on your credit — is there any other, I have to ask everybody this — any late pays, any derogatories, anything else?"</strong></span> | Surface credit problems that could affect qualification |
