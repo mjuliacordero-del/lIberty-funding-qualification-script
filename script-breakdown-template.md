@@ -19,6 +19,8 @@ rather than a line to read word-for-word.
 | 2 | **WHY FUNDING:** <span style="color:#7c3aed"><strong>"So what is the biggest struggle in your business that has you reaching out for funding?"</strong></span> | Open discovery — identify the business problem and motivation |
 | 3 | <span style="color:#db2777"><strong>[REFLECT BACK YOUR UNDERSTANDING / SUMMARY]</strong></span> | Demonstrate listening and confirm the problem before moving on |
 | 4 | **HOW MUCH:** <span style="color:#7c3aed"><strong>"How much funding are you looking to acquire?"</strong></span> | Qualify the requested funding amount |
+|  | <span style="color:#ea580c"><strong>[BRANCH A: ABOVE 100K]</strong></span>: <span style="color:#2563eb"><em>"Fantastic."</em></span> | |
+|  | <span style="color:#ea580c"><strong>[BRANCH B: BELOW 100K]</strong></span>: <span style="color:#2563eb"><em>"Part of my job is to tell you straight about expectations. Typically, we're hoping our clients achieve $100,000 or more. That's the scale at this level of this funding done the right way."</em></span> | |
 | 5 | **AGE OF BUSINESS:** <span style="color:#7c3aed"><strong>"How long have you had this business registered?"</strong></span> | Qualify business age |
 
 ## Education and qualification
