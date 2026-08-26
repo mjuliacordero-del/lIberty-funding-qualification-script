@@ -10,6 +10,7 @@ rather than a line to read word-for-word.
 - <span style="color:#7c3aed"><strong>Purple bold</strong></span> = a question to ask the client.
 - <span style="color:#db2777"><strong>Bold pink</strong></span> = an action or process instruction.
 - <span style="color:#ea580c"><strong>Bold orange</strong></span> = a branch header or branch opener.
+- 🟡 = an expectation being set with the prospect.
 
 ## Opening and discovery
 
@@ -20,21 +21,21 @@ rather than a line to read word-for-word.
 | 3 | <span style="color:#db2777"><strong>[REFLECT BACK YOUR UNDERSTANDING / SUMMARY]</strong></span> | Demonstrate listening and confirm the problem before moving on |
 | 4 | **HOW MUCH:** <span style="color:#7c3aed"><strong>"How much funding are you looking to acquire?"</strong></span> | Qualify the requested funding amount |
 |  | <span style="color:#ea580c"><strong>[BRANCH A: ABOVE 100K]</strong></span>: <span style="color:#2563eb"><em>"Fantastic."</em></span> | |
-|  | <span style="color:#ea580c"><strong>[BRANCH B: BELOW 100K]</strong></span>: <span style="color:#2563eb"><em>"Part of my job is to tell you straight about expectations. We guarantee our clients achieve at least $100,000. It's usually more. That's the scale at this level of this funding done the right way."</em></span> <span style="color:#7c3aed"><strong>"Would you be able to use that effectively?"</strong></span> | |
+|  | 🟡 <span style="color:#ea580c"><strong>[BRANCH B: BELOW 100K]</strong></span>: <span style="color:#2563eb"><em>"Part of my job is to tell you straight about expectations. We guarantee our clients achieve at least $100,000. It's usually more. That's the scale at this level of this funding done the right way."</em></span> <span style="color:#7c3aed"><strong>"Would you be able to use that effectively?"</strong></span> | |
 | 5 | **AGE OF BUSINESS:** <span style="color:#7c3aed"><strong>"How long have you had this business registered?"</strong></span> | Qualify business age |
 
 ## Education and qualification
 
 | # | Verbatim / instruction | Reason / purpose |
 | --- | --- | --- |
-| 6 | <span style="color:#db2777"><strong>[EDUCATE / CATEGORIZE OUR LANE]</strong></span><br><br><span style="color:#2563eb"><em>"So this is a no-documentation process for this level of funding. We won't need proof of revenue or anything, but we do look at your personal credit..."</em></span> | Explain the program category and set expectations about what is evaluated |
+| 6 | 🟡 <span style="color:#db2777"><strong>[EDUCATE / CATEGORIZE OUR LANE]</strong></span><br><br><span style="color:#2563eb"><em>"So this is a no-documentation process for this level of funding. We won't need proof of revenue or anything, but we do look at your personal credit..."</em></span> | Explain the program category and set expectations about what is evaluated |
 | 7 | **OVER $10K UNSECURED / CREDIT HISTORY:** <span style="color:#7c3aed"><strong>"What kind of personal credit cards do you have?"</strong></span> | Assess available personal credit history and borrowing capacity |
 | 8 | **IDEAL TIMELINE:** <span style="color:#7c3aed"><strong>"Do you have a deadline for this funding?"</strong></span> | Identify urgency and compare it with a realistic process timeline |
-| 9 | <strong>REALISTIC TIMELINE:</strong> <span style="color:#2563eb"><em>"Given what I hear so far, it looks like a realistic timeline to get to funding is likely [REALISTIC TIMELINE]"</em></span> | Set a realistic timeline when the available information supports it |
+| 9 | 🟡 <strong>REALISTIC TIMELINE:</strong> <span style="color:#2563eb"><em>"Given what I hear so far, it looks like a realistic timeline to get to funding is likely [REALISTIC TIMELINE]"</em></span> | Set a realistic timeline when the available information supports it |
 |  | <span style="color:#ea580c"><strong>[BRANCH A: ALL CRITERIA MET]</strong></span>: the next 6 weeks | |
 |  | <span style="color:#ea580c"><strong>[BRANCH B: MOST CRITERIA MET]</strong></span>: the next 3-4 months | |
 |  | <span style="color:#ea580c"><strong>[BRANCH B2: FEW CRITERIA MET]</strong></span>: 6-7 months | |
-| 12 | <span style="color:#db2777"><strong>[REALISTIC TIMELINE CHECK]</strong></span>: <span style="color:#7c3aed"><strong>Does that work for you?</strong></span> | Confirm acceptance of the timeline |
+| 12 | 🟡 <span style="color:#db2777"><strong>[REALISTIC TIMELINE CHECK]</strong></span>: <span style="color:#7c3aed"><strong>Does that work for you?</strong></span> | Confirm acceptance of the timeline |
 | 13 | **DEROGATORIES / LATE PAYS, ETC.:** <span style="color:#7c3aed"><strong>"Do you know on your credit — is there any other, I have to ask everybody this — any late pays, any derogatories, anything else?"</strong></span> | Surface credit problems that could affect qualification |
 | 14 | **INQUIRIES:** <span style="color:#7c3aed"><strong>"And roughly, do you know how many inquiries you have on your credit?"</strong></span> | Reveal additional credit-file data and possible obstacles |
 | 15 | **OTHER FUNDING ATTEMPTS:** <span style="color:#7c3aed"><strong>"What else have you tried for the funding?"</strong></span> | Learn what the prospect has already attempted |
@@ -51,12 +52,12 @@ rather than a line to read word-for-word.
 
 | # | Verbatim / instruction | Reason / purpose |
 | --- | --- | --- |
-| 20 | <span style="color:#db2777"><strong>[REINFORCE REALISTIC TIMELINE]</strong></span><br><br><span style="color:#2563eb"><em>"Awesome, well [PROSPECT] — again, like I said, this is a real potential opportunity here, and [TIMELINE]."</em></span> | Reinforce that the opportunity is real while keeping the timeline visible |
+| 20 | 🟡 <span style="color:#db2777"><strong>[REINFORCE REALISTIC TIMELINE]</strong></span><br><br><span style="color:#2563eb"><em>"Awesome, well [PROSPECT] — again, like I said, this is a real potential opportunity here, and [TIMELINE]."</em></span> | Reinforce that the opportunity is real while keeping the timeline visible |
 | 21 | <span style="color:#ea580c"><strong>[BRANCH A: ALL CRITERIA MET]</strong></span>: that could potentially happen in the next 6 weeks | Use the shortest timeline only when all criteria are met |
 | 22 | <span style="color:#ea580c"><strong>[BRANCH A.2: MOST CRITERIA MET]</strong></span>: that could potentially happen in the next 3-4 months | Use a middle timeline when most criteria are met |
 | 23 | <span style="color:#ea580c"><strong>[BRANCH B: FEW CRITERIA MET]</strong></span>: but it is a long-term strategy. | Set the long-term expectation when few criteria are met |
-| 24 | <span style="color:#db2777"><strong>[LIQUIDITY, OPEN LOOP]</strong></span><br><br><span style="color:#2563eb"><em>"One thing I do want to let you know is that this isn't something where — it's something that happens for free, right?"</em></span> | Introduce the investment expectation without presenting it as a surprise later |
-| 25 | **LIQUIDITY CONFIRMATION — EMPATHY FIRST BEFORE INVESTMENT:** <span style="color:#2563eb"><em>"I know .... [PROSPECT'S SPECIFIC CIRCUMSTANCE] — I would never ask to do something that's gonna put the lights out for you."</em></span> | Acknowledge the prospect's circumstances before checking financial capacity |
+| 24 | 🟡 <span style="color:#db2777"><strong>[LIQUIDITY, OPEN LOOP]</strong></span><br><br><span style="color:#2563eb"><em>"One thing I do want to let you know is that this isn't something where — it's something that happens for free, right?"</em></span> | Introduce the investment expectation without presenting it as a surprise later |
+| 25 | 🟡 **LIQUIDITY CONFIRMATION — EMPATHY FIRST BEFORE INVESTMENT:** <span style="color:#2563eb"><em>"I know .... [PROSPECT'S SPECIFIC CIRCUMSTANCE] — I would never ask to do something that's gonna put the lights out for you."</em></span> | Acknowledge the prospect's circumstances before checking financial capacity |
 | 26 | <span style="color:#7c3aed"><strong>"Do you have a little bit of breathing room to be able to invest and set this up?"</strong></span> | Confirm the prospect has capacity to invest |
 
 ---
@@ -71,3 +72,27 @@ rather than a line to read word-for-word.
 | 28 | <span style="color:#db2777"><strong>ASSIGN HOMEWORK:</strong></span> <span style="color:#2563eb"><em>"I'm gonna send you a video, I'll need you to watch before we talk. It will take no more than 10 minutes."</em></span> | Assign brief preparation that builds context before the next call |
 | 29 | <span style="color:#2563eb"><em>"Now, if you can't watch it, don't not show up. There's no grade. But I suggest you make time for it so you can get the most out of our time together."</em></span> | Reduce the risk of no-showing while still encouraging preparation |
 | 30 | <span style="color:#7c3aed"><strong>"Can I have your word that if you can't make the call for any reason, you will just let me know?"</strong></span> | Secure a communication commitment and protect the scheduled appointment |
+
+## 🟡 Expectations we need to set
+
+- Funding scale — we guarantee at least $100K, usually more (row 4 branch)
+- What gets evaluated — no-documentation process, but personal credit matters (row 6)
+- Realistic timeline based on how many criteria are met — 6 weeks / 3-4 months / 6-7 months (row 9)
+- Timeline confirmed as workable for the prospect (row 12)
+- Timeline reinforced again right before the ask (row 20)
+- This isn't free — there's an investment involved (row 24)
+- The investment ask is made with empathy for their specific circumstance (row 25)
+
+## Qualification information we need
+
+- Biggest struggle / reason they're reaching out for funding (row 2)
+- Funding amount they're looking to acquire (row 4)
+- How long the business has been registered (row 5)
+- What personal credit cards they have (row 7)
+- Whether they have a deadline for the funding (row 8)
+- Late pays, derogatories, or other credit red flags (row 13)
+- Number of credit inquiries (row 14)
+- What else they've already tried for funding (row 15)
+- What they'd want to know to feel comfortable investing (row 17)
+- Whether they could use a larger amount effectively (row 19)
+- Whether they have breathing room to invest right now (row 26)
