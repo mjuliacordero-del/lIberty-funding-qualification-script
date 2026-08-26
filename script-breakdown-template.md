@@ -20,7 +20,7 @@ rather than a line to read word-for-word.
 | 3 | <span style="color:#db2777"><strong>[REFLECT BACK YOUR UNDERSTANDING / SUMMARY]</strong></span> | Demonstrate listening and confirm the problem before moving on |
 | 4 | **HOW MUCH:** <span style="color:#7c3aed"><strong>"How much funding are you looking to acquire?"</strong></span> | Qualify the requested funding amount |
 |  | <span style="color:#ea580c"><strong>[BRANCH A: ABOVE 100K]</strong></span>: <span style="color:#2563eb"><em>"Fantastic."</em></span> | |
-|  | <span style="color:#ea580c"><strong>[BRANCH B: BELOW 100K]</strong></span>: <span style="color:#2563eb"><em>"Part of my job is to tell you straight about expectations. Typically, we're hoping our clients achieve $100,000 or more. That's the scale at this level of this funding done the right way."</em></span> | |
+|  | <span style="color:#ea580c"><strong>[BRANCH B: BELOW 100K]</strong></span>: <span style="color:#2563eb"><em>"Part of my job is to tell you straight about expectations. We guarantee our clients achieve at least $100,000. It's usually more. That's the scale at this level of this funding done the right way."</em></span> <span style="color:#7c3aed"><strong>"Would you be able to use that effectively?"</strong></span> | |
 | 5 | **AGE OF BUSINESS:** <span style="color:#7c3aed"><strong>"How long have you had this business registered?"</strong></span> | Qualify business age |
 
 ## Education and qualification
