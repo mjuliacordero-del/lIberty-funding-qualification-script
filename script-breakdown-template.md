@@ -15,7 +15,7 @@ rather than a line to read word-for-word.
 
 | # | Verbatim / instruction | Reason / purpose |
 | --- | --- | --- |
-| 1 | <span style="color:#2563eb"><em>"Yeah, I just saw that you booked a call. Wanted to see if you had a couple minutes to go over some questions."</em></span> | Open the call and confirm availability |
+| 1 | <span style="color:#2563eb"><em>"Hi [PROSPECT NAME] I just saw that you booked a call. Wanted to see if you had a couple minutes to go over some questions."</em></span> | Open the call and confirm availability |
 | 2 | **WHY FUNDING:** <span style="color:#7c3aed"><strong>"So what is the biggest struggle in your business that has you reaching out for funding?"</strong></span> | Open discovery — identify the business problem and motivation |
 | 3 | <span style="color:#db2777"><strong>[REFLECT BACK YOUR UNDERSTANDING / SUMMARY]</strong></span> | Demonstrate listening and confirm the problem before moving on |
 | 4 | **HOW MUCH:** <span style="color:#7c3aed"><strong>"How much funding are you looking to acquire?"</strong></span> | Qualify the requested funding amount |
