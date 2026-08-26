@@ -56,9 +56,7 @@ rather than a line to read word-for-word.
 | 21 | <span style="color:#ea580c"><strong>[BRANCH A: ALL CRITERIA MET]</strong></span>: that could potentially happen in the next 6 weeks | Use the shortest timeline only when all criteria are met |
 | 22 | <span style="color:#ea580c"><strong>[BRANCH A.2: MOST CRITERIA MET]</strong></span>: that could potentially happen in the next 3-4 months | Use a middle timeline when most criteria are met |
 | 23 | <span style="color:#ea580c"><strong>[BRANCH B: FEW CRITERIA MET]</strong></span>: but it is a long-term strategy. | Set the long-term expectation when few criteria are met |
-| 24 | 🟡 <span style="color:#db2777"><strong>[LIQUIDITY, OPEN LOOP]</strong></span><br><br><span style="color:#2563eb"><em>"One thing I do want to let you know is that this isn't something where — it's something that happens for free, right?"</em></span> | Introduce the investment expectation without presenting it as a surprise later |
-| 25 | 🟡 **LIQUIDITY CONFIRMATION — EMPATHY FIRST BEFORE INVESTMENT:** <span style="color:#2563eb"><em>"I know .... [PROSPECT'S SPECIFIC CIRCUMSTANCE] — I would never ask to do something that's gonna put the lights out for you."</em></span> | Acknowledge the prospect's circumstances before checking financial capacity |
-| 26 | <span style="color:#7c3aed"><strong>"Do you have a little bit of breathing room to be able to invest and set this up?"</strong></span> | Confirm the prospect has capacity to invest |
+| 24 | 🟡 <span style="color:#db2777"><strong>[LIQUIDITY]</strong></span><br><br><span style="color:#2563eb"><em>"One thing I do want to let you know is that this isn't something that happens for free, right?"</em></span><br><br><span style="color:#2563eb"><em>"I know .... [PROSPECT'S SPECIFIC CIRCUMSTANCE] and I would never ask to do something that's gonna put the lights out for you."</em></span><br><br><span style="color:#7c3aed"><strong>"Do you have a little bit of breathing room to be able to invest and set this up?"</strong></span> | Introduce the investment expectation, acknowledge the prospect's circumstances with empathy, then confirm capacity to invest |
 
 ---
 
@@ -81,7 +79,7 @@ rather than a line to read word-for-word.
 - Timeline confirmed as workable for the prospect (row 12)
 - Timeline reinforced again right before the ask (row 20)
 - This isn't free — there's an investment involved (row 24)
-- The investment ask is made with empathy for their specific circumstance (row 25)
+- The investment ask is made with empathy for their specific circumstance (row 24)
 
 ## Qualification information we need
 
@@ -95,4 +93,4 @@ rather than a line to read word-for-word.
 - What else they've already tried for funding (row 15)
 - What they'd want to know to feel comfortable investing (row 17)
 - Whether they could use a larger amount effectively (row 19)
-- Whether they have breathing room to invest right now (row 26)
+- Whether they have breathing room to invest right now (row 24)
