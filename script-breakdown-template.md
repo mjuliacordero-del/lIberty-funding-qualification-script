@@ -72,18 +72,3 @@ rather than a line to read word-for-word.
 | 28 | <span style="color:#db2777"><strong>ASSIGN HOMEWORK:</strong></span> <span style="color:#2563eb"><em>"I'm gonna send you a video, I'll need you to watch before we talk. It will take no more than 10 minutes."</em></span> | Assign brief preparation that builds context before the next call |
 | 29 | <span style="color:#2563eb"><em>"Now, if you can't watch it, don't not show up. There's no grade. But I suggest you make time for it so you can get the most out of our time together."</em></span> | Reduce the risk of no-showing while still encouraging preparation |
 | 30 | <span style="color:#7c3aed"><strong>"Can I have your word that if you can't make the call for any reason, you will just let me know?"</strong></span> | Secure a communication commitment and protect the scheduled appointment |
-
-## Pattern notes
-
-- The call moves in a clear sequence: motivation, amount, business age,
-  credit profile, timeline, risk factors, prior attempts, trust, funding
-  level, investment capacity, then booking.
-- Timeline is introduced conditionally and checked for agreement before the
-  call advances.
-- The funding-level conversation reframes a small initial ask without
-  promising a result; the prospect must also confirm they can use the larger
-  amount effectively.
-- Investment capacity is introduced as an open loop before the empathy-first
-  liquidity check, so the cost is not hidden until the advisor call.
-- The homework instruction includes a no-show safeguard: inability to watch
-  the video is not treated as a reason to skip the appointment.
