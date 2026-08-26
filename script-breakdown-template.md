@@ -33,7 +33,6 @@ rather than a line to read word-for-word.
 |  | <span style="color:#ea580c"><strong>[BRANCH A: ALL CRITERIA MET]</strong></span>: the next 6 weeks | |
 |  | <span style="color:#ea580c"><strong>[BRANCH B: MOST CRITERIA MET]</strong></span>: the next 3-4 months | |
 |  | <span style="color:#ea580c"><strong>[BRANCH B2: FEW CRITERIA MET]</strong></span>: 6-7 months | |
-| 11 | <span style="color:#ea580c"><strong>[BRANCH B2: NO CARDS ABOVE $5K]</strong></span> | Apply the longer-preparation condition when the prospect lacks sufficient card history |
 | 12 | <span style="color:#db2777"><strong>[REALISTIC TIMELINE CHECK]</strong></span>: <span style="color:#7c3aed"><strong>Does that work for you?</strong></span> | Confirm acceptance of the timeline |
 | 13 | **DEROGATORIES / LATE PAYS, ETC.:** <span style="color:#7c3aed"><strong>"Do you know on your credit — is there any other, I have to ask everybody this — any late pays, any derogatories, anything else?"</strong></span> | Surface credit problems that could affect qualification |
 | 14 | **INQUIRIES:** <span style="color:#7c3aed"><strong>"And roughly, do you know how many inquiries you have on your credit?"</strong></span> | Reveal additional credit-file data and possible obstacles |
