@@ -17,7 +17,7 @@ rather than a line to read word-for-word.
 
 | Verbatim / instruction | Reason / purpose |
 | --- | --- |
-| <span style="color:#2563eb"><em>"Hi [PROSPECT NAME] I just saw that you booked a call. Wanted to see if you had a couple minutes to go over some questions."</em></span> | Open the call and confirm availability |
+| <span style="color:#2563eb"><em>"Hi <span style="color:#000000">[PROSPECT NAME]</span> I just saw that you booked a call. Wanted to see if you had a couple minutes to go over some questions."</em></span> | Open the call and confirm availability |
 | **WHY FUNDING:** <span style="color:#7c3aed"><strong>"So what is the biggest struggle in your business that has you reaching out for funding?"</strong></span> | 🟢 Open discovery — identify the business problem and motivation |
 | <span style="color:#db2777"><strong>[REFLECT BACK YOUR UNDERSTANDING / SUMMARY]</strong></span> | Demonstrate listening and confirm the problem before moving on |
 | **HOW MUCH:** <span style="color:#7c3aed"><strong>"How much funding are you looking to acquire?"</strong></span> | 🟢 Qualify the requested funding amount |
@@ -53,11 +53,11 @@ rather than a line to read word-for-word.
 
 | Verbatim / instruction | Reason / purpose |
 | --- | --- |
-| <span style="color:#db2777"><strong>[REINFORCE REALISTIC TIMELINE]</strong></span><br><br><span style="color:#2563eb"><em>"Awesome, well [PROSPECT] — again, like I said, this is a real potential opportunity here, and [TIMELINE]."</em></span> | 🟡 Reinforce that the opportunity is real while keeping the timeline visible |
+| <span style="color:#db2777"><strong>[REINFORCE REALISTIC TIMELINE]</strong></span><br><br><span style="color:#2563eb"><em>"Awesome, well <span style="color:#000000">[PROSPECT]</span> — again, like I said, this is a real potential opportunity here, and <span style="color:#000000">[TIMELINE]</span>."</em></span> | 🟡 Reinforce that the opportunity is real while keeping the timeline visible |
 | <span style="color:#ea580c"><strong>[BRANCH A: ALL CRITERIA MET]</strong></span>: that could potentially happen in the next 6 weeks | Use the shortest timeline only when all criteria are met |
 | <span style="color:#ea580c"><strong>[BRANCH B: MOST CRITERIA MET]</strong></span>: that could potentially happen in the next 3-4 months | Use a middle timeline when most criteria are met |
 | <span style="color:#ea580c"><strong>[BRANCH B2: FEW CRITERIA MET]</strong></span>: but it is a long-term strategy. | Set the long-term expectation when few criteria are met |
-| <span style="color:#db2777"><strong>[LIQUIDITY]</strong></span><br><br><span style="color:#2563eb"><em>"One thing I do want to let you know is that this isn't something that happens for free, right?"</em></span><br><br><span style="color:#2563eb"><em>"I know .... [PROSPECT'S SPECIFIC CIRCUMSTANCE] and I would never ask to do something that's gonna put the lights out for you."</em></span><br><br><span style="color:#7c3aed"><strong>"Do you have a little bit of breathing room to be able to invest and set this up?"</strong></span> | 🟡🟢 Introduce the investment expectation, acknowledge the prospect's circumstances with empathy, then confirm capacity to invest |
+| <span style="color:#db2777"><strong>[LIQUIDITY]</strong></span><br><br><span style="color:#2563eb"><em>"One thing I do want to let you know is that this isn't something that happens for free, right?"</em></span><br><br><span style="color:#2563eb"><em>"I know .... <span style="color:#000000">[PROSPECT'S SPECIFIC CIRCUMSTANCE]</span> and I would never ask to do something that's gonna put the lights out for you."</em></span><br><br><span style="color:#7c3aed"><strong>"Do you have a little bit of breathing room to be able to invest and set this up?"</strong></span> | 🟡🟢 Introduce the investment expectation, acknowledge the prospect's circumstances with empathy, then confirm capacity to invest |
 
 ---
 
